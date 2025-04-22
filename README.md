@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mendi-D
+- 👋 Hi, I’m @Mendi
 - 👀 I’m interested in becoming the best version of myself 
 - 🌱 I’m currently learning Data analytics with Bright light tutorias 
 - 💞️ I’m looking to collaborate on all things ddata 
