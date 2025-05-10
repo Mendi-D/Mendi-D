@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mendi
 - 👀 I’m interested in becoming the best version of myself 
-- 🌱 I’m currently learning Data analytics with Bright light tutorias 
+- 🌱 I’m currently learning Data analytics with Bright Light Tutorias 
 - 💞️ I’m looking to collaborate on all things data 
 - 📫 How to reach me ...mendisomoyo@gmail.com 
   
